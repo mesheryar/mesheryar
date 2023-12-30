@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesheryar&label=Profile%20views&color=0e75b6&style=flat" alt="mesheryar" /> </p>
 
-- 🔭 I’m currently working on **Azra Beauty**
-
 - 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mesheryar](https://github.com/mesheryar)
